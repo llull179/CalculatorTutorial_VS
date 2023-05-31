@@ -14,7 +14,7 @@ namespace CalculatorProgram
             Console.WriteLine("------------------------\n");
 
             Calculator calculator = new Calculator();
-            while (!endApp)
+            while (!endApp) 
             {
                 // Declare variables and set to empty.
                 string operation = "";
